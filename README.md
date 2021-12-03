@@ -47,3 +47,6 @@ https://colab.research.google.com/drive/1mH_MahnrkVIJCDGpi2eV6Myyo2bG9wOP#scroll
 
 
 Часть 2.  Анализ с помощью DESeq2.
+( сам коллаб у меня сломался после перезахода и почти ничего больше не работало, однако все файлы есть и приложены, а также я все равно там оставил все написанные команды)
+ссылка на коллаб
+https://colab.research.google.com/drive/11Yxg5Qcb3WCo2do7sQ2OixxVZrfiwd-3#scrollTo=Wti1xyGe4zMO
