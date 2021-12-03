@@ -51,4 +51,24 @@ https://colab.research.google.com/drive/1mH_MahnrkVIJCDGpi2eV6Myyo2bG9wOP#scroll
 ссылка на коллаб
 https://colab.research.google.com/drive/11Yxg5Qcb3WCo2do7sQ2OixxVZrfiwd-3#scrollTo=Wti1xyGe4zMO
 
+MA-plot
+
+![image](https://user-images.githubusercontent.com/43177979/144634588-4f73952a-1300-41a7-883d-8d5391b74d5d.png)
+
+Тепловая карта 
+
+![image](https://user-images.githubusercontent.com/43177979/144634704-901a5af2-d624-4ad5-bf89-fe91c07320df.png)
+
+Графики со значениями "Normalized counts" в контрольных образцах
+
+![image](https://user-images.githubusercontent.com/43177979/144635052-b6fd310e-f683-405c-b0b2-6b2479e6de34.png)
+
+![image](https://user-images.githubusercontent.com/43177979/144635164-f10e7dca-63a2-4ffe-955d-2bc2a061908f.png)
+
+
+![image](https://user-images.githubusercontent.com/43177979/144635201-9a066ca3-5cde-42d8-af30-9305969119f9.png)
+
+![image](https://user-images.githubusercontent.com/43177979/144635547-5e4938bc-90c0-4fc5-8fbb-4e8020a713f4.png)
+
+
 
