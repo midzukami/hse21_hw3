@@ -2,6 +2,7 @@
 Часть 1 
 ссылка на гугл-коллаб 
 
+https://colab.research.google.com/drive/1mH_MahnrkVIJCDGpi2eV6Myyo2bG9wOP#scrollTo=Xpd0SfixyBOc
 
 Проверка качества чтений из FastQC: Сравнительная статистика из multiQC
 
